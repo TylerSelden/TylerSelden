@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a simple chat app called DropIn (v2)<br>🎨 I'm currently exploring React and Bootstrap<br>💻 I'm currently using Arch + Neovim<br>🏆 My favorite project is my custom OS from scratch, Nox<br>🎯 My next goal is to develop Stock Market Game (v3)<br>🎉 I just finished work on a docker-based remote desktop app called Gaggle
+🔭 I’m currently working on a long-term multiplayer abstract-strategy game called Gridlock<br>🎨 I'm currently exploring `THREE.js`<br>💻 I'm currently using Arch + Neovim<br>🏆 My favorite project is my custom OS from scratch, Nox<br>🎯 My next goal is to develop a VR game<br>🎉 I just finished work on (another) Javascript raycasting engine
 
 
 ## 🌐 Socials:
