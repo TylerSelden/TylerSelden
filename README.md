@@ -20,6 +20,8 @@
 # 🔭 Project Wishlist
 - **Gridlock:** A grid-based, long-term abstract strategy game
 - A webapp that allows people to watch videos alone or with others, in perfect sync (with chat features)
+- **DropIn v3:** A better, more functional version of DropIn with my new and improved React skills
+- **Nightvision Goggles:** I mean it's exactly what it sounds like.
 
 *More to follow*
 
