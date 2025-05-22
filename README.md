@@ -22,6 +22,7 @@
 - A webapp that allows people to watch videos alone or with others, in perfect sync (with chat features)
 - **DropIn v3:** A better, more functional version of DropIn with my new and improved React skills
 - **Nightvision Goggles:** I mean it's exactly what it sounds like.
+- **A VR Game:** Probably with `three.js` cause I'm too lazy to learn a game engine and also what's the fun in that?
 
 *More to follow*
 
