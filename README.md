@@ -3,11 +3,13 @@
 
 
 # 🌐 Socials:
+[LinkedIn](www.linkedin.com/in/tyler-selden)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://puzzling.stackexchange.com/users/80017/blue-herring) 
 
 # ✨ Favorite Projects:
 
 - [Nox](https://github.com/TylerSelden/nox): A custom operating system built from the ground up, for fun.
+- [SideQuest](https://github.com/TylerSelden/sidequest): A simple webapp that gives out 3 daily "sidequests" to keep life interesting
 - [AlterProx](https://github.com/TylerSelden/alterprox): A web client for Alter Aeon.
 - [DropIn](https://github.com/TylerSelden/dropin): A simple chat app (my first React project).
 - ~~[SwiftBid](https://github.com/TylerSelden/swiftbid): A dockerized auction website for fundraisers.~~ (privatized)
