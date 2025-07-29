@@ -23,6 +23,7 @@
 # 🔭 Project Wishlist
 - **Gridlock:** A grid-based, long-term abstract strategy game
 - A webapp that allows people to watch videos alone or with others, in perfect sync (with chat features)
+- **Under Pressure:** A multiplayer, real-world game in which players utilize QR codes around a large area to keep a submarine running as long as possible.
 - A WebXR-based VR lobby that players can join while queueing into other games that have less fun lobbies
 - **DropIn v3:** A better, more functional version of DropIn with my new and improved React skills
 - **Nightvision Goggles:** I mean it's exactly what it sounds like.
