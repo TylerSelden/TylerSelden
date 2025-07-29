@@ -23,6 +23,7 @@
 # 🔭 Project Wishlist
 - **Gridlock:** A grid-based, long-term abstract strategy game
 - A webapp that allows people to watch videos alone or with others, in perfect sync (with chat features)
+- A WebXR-based VR lobby that players can join while queueing into other games that have less fun lobbies
 - **DropIn v3:** A better, more functional version of DropIn with my new and improved React skills
 - **Nightvision Goggles:** I mean it's exactly what it sounds like.
 - **A VR Game:** Probably with `three.js` cause I'm too lazy to learn a game engine and also what's the fun in that?
