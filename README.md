@@ -12,7 +12,7 @@
 - [Nox](https://github.com/TylerSelden/nox): A custom operating system built from the ground up, for fun.
 - [SideQuest](https://github.com/TylerSelden/sidequest): A simple webapp that gives out 3 daily "sidequests" to keep life interesting
 - [AlterProx](https://github.com/TylerSelden/alterprox): A web client for Alter Aeon.
-- [DropIn](https://github.com/TylerSelden/dropin): A simple chat app (my first React project).
+- ~~[DropIn](https://github.com/TylerSelden/dropin): A simple chat app (my first React project)~~ (privatized)
 - ~~[SwiftBid](https://github.com/TylerSelden/swiftbid): A dockerized auction website for fundraisers.~~ (privatized)
 - ~~[T-Minus](https://github.com/TylerSelden/tminus1): hehehe...~~ (privatized)
 - [Gaggle](https://github.com/TylerSelden/gaggle): A headless, browser-based remote desktop system, build on Docker.
